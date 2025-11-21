@@ -9,7 +9,7 @@ function App() {
       <div>
         <h1>Yggdrasil Admin</h1>
       </div>
-      <h2>Distributed Printing System - Admin Portal</h2>
+      <h2>Distributed IOT System - Admin Portal</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}

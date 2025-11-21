@@ -1,6 +1,6 @@
 # Yggdrasil.AdminWeb
 
-Part of the Yggdrasil.NET Distributed Printing System.
+Part of the Yggdrasil.NET Distributed IOT System.
 
 ## Development
 
